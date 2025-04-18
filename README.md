@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on: **fun side projects & improving my backend skills**
 - 🌱 Learning more about: **DevOps, System Design, AI Integration**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, GitHub stuff**
-- 📫 Reach me at: [awanish.kumarrai.dev@gmail.com](mailto:awanish.kumarrai.dev@gmail.com)
+- 💬 Ask me about: **JavaScript, React, Node.js, Django, PHP, Mysql MongoDB, GitHub stuff**
+- 📫 Reach me at: [awanishrai420@gmail.com](mailto:awanishrai420@gmail.com)
 - ⚡ Fun fact: I turn ☕ into code and ideas into real-world apps.
 
 ---
