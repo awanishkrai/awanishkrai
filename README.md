@@ -53,15 +53,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Portfolio Website](https://github.com/awanishkrai/portfolio) | 🌐 Personal portfolio showcasing my work and skills | `React`, `TailwindCSS`, `Framer Motion` |
-| [Task Manager API](https://github.com/awanishkrai/task-manager-api) | 📋 A RESTful API for managing tasks with JWT auth | `Node.js`, `Express`, `MongoDB` |
-| [GitHub Finder](https://github.com/awanishkrai/github-finder) | 🔍 Search for GitHub profiles with stats | `React`, `GitHub API` |
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=awanishkrai&style=flat-square&color=blue" alt="visitor counter"/>
