@@ -1,69 +1,88 @@
-<h1 align="center">Hey 👋, I'm Awanish Kumar Rai</h1>
-<h3 align="center">💻 Full-stack Developer | 🧠 Lifelong Learner | 🚀 Building with Passion</h3>
+<h1 align="center">Hi, I'm Awanish Kumar Rai</h1>
+<h3 align="center">Full-Stack Developer | Lifelong Learner | Builder of Ideas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F796&center=true&vCenter=true&width=435&lines=Full-stack+developer+based+in+India.;I+love+building+cool+things.;Open+Source+%E2%9D%A4%EF%B8%8F;Let's+build+something+amazing+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FBF61&center=true&vCenter=true&width=435&lines=Full-stack+developer+based+in+India.;Turning+ideas+into+reality.;Open+Source+Contributor;Always+learning+and+building." alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm Awanish — a passionate web developer who thrives at the intersection of creativity and code.  
-With a strong eye for design and deep technical expertise, I transform complex ideas into clean, functional, and captivating digital experiences.  
-Whether it’s building responsive websites from scratch or optimizing existing platforms, I’m always driven by curiosity and the pursuit of elegant solutions.
+I love building scalable web apps, experimenting with new tech, and collaborating with other developers.
+
+- Currently learning **DevOps, Docker, and Cloud**
+- Focused on building tools that **solve real-world problems**
+- Enthusiastic about combining **design thinking with clean code**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-## 🚀 Projects
-
-- **Project 1**: A brief description of the project.
-- **Project 2**: A brief description of the project.
-- **Project 3**: A brief description of the project.
-
-> 🔧 *More projects coming soon!*
+**Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
-## 🧠 Competitive Programming
+## Projects
 
-I actively participate in competitive programming contests to sharpen my problem-solving skills.
+Here are two projects I'm proud of:
 
-- 🔗 [Codeforces Profile](https://codeforces.com/profile/Awanish_Rai)
-- 🔗 [CodeChef Profile](https://www.codechef.com/users/master_magnus)
+- [**Adhyay**](https://github.com/awanishkrai/adhyay) – A platform for book lovers to discover books, create clubs, and discuss ideas.  
+- [**Sleep Assistant**](https://github.com/awanishkrai/sleep-assistant) – A JS-based sleep tracking app using Google Fit API.  
 
----
-
-## 📬 Contact Me
-
-Feel free to reach out to me for collaborations or just to say hi!
-
-- 📧 Email: [awanishrai420@gmail.com](mailto:awanishrai420@gmail.com)
-- 💼 LinkedIn: [Awanish Kumar Rai](https://www.linkedin.com/in/awanish-rai-9296ab221/)
+> More projects on my [GitHub Profile](https://github.com/awanishkrai?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+## Competitive Programming
+
+I actively participate in programming contests to sharpen my problem-solving skills.
+
+- [Codeforces Profile](https://codeforces.com/profile/Awanish_Rai)  
+- [CodeChef Profile](https://www.codechef.com/users/master_magnus)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awanishkrai&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanishkrai&layout=compact&theme=radical" height="180" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Awanish_Rai&theme=graywhite" alt="Codeforces Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awanishkrai&style=flat-square&color=blue" alt="visitor counter"/>
+  <img src="https://codechef-readme-stats.vercel.app/api/card?username=master_magnus&theme=light" alt="CodeChef Stats" />
 </p>
 
 ---
+
+## Contact Me
+
+Let’s collaborate and build something meaningful.
+
+- Email: [awanishrai420@gmail.com](mailto:awanishrai420@gmail.com)  
+- LinkedIn: [Awanish Kumar Rai](https://www.linkedin.com/in/awanish-rai-9296ab221/)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awanishkrai&show_icons=true&theme=graywhite" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanishkrai&layout=compact&theme=graywhite" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=awanishkrai&theme=default&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awanishkrai&style=flat-square&color=555" alt="visitor counter"/>
+</p>
