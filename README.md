@@ -23,7 +23,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,docker,linux,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,docker,linux,vscode&perline=5" alt="Tech stack icons" />
 </p>
 
 ---
@@ -51,14 +51,12 @@ A JavaScript-based sleep tracking app using the Google Fit API to analyze and vi
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awanishkrai&theme=flat&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awanishkrai&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🏹 Competitive Programming
-
-Staying consistent with problem solving helps everything else: debugging, design, and thinking under pressure.
 
 - 💻 **Codeforces**: [Awanish_Rai](https://codeforces.com/profile/Awanish_Rai)  
 - 🍽️ **CodeChef**: [master_magnus](https://www.codechef.com/users/master_magnus)  
@@ -81,7 +79,7 @@ Staying consistent with problem solving helps everything else: debugging, design
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanishkrai&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=awanishkrai&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=awanishkrai&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -90,9 +88,9 @@ Staying consistent with problem solving helps everything else: debugging, design
 
 <p align="center">
   <a href="mailto:awanishrai420@gmail.com">
-    <img src="https://img.shields.io/badge/Email-awanishrai420%40gmail.com-1f2933?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-awanishrai420%40gmail.com-1f2933?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/awanish-rai-9296ab221/">
-    <img src="https://img.shields.io/badge/LinkedIn-Awanish%20Kumar%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Awanish%20Kumar%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
