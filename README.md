@@ -1,136 +1,131 @@
-<!-- Hero -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Awanish+Kumar+Rai;Full-Stack+Developer+%7C+Problem+Solver;Building+useful+tools+one+commit+at+a+time"
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/awanishkrai">
-    <img
-      src="https://u8views.com/api/v1/github/profiles/151035327/views/day-week-month-total-count.svg"
-      alt="Profile views"
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=534AB7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Awanish+Kumar+Rai;Full-Stack+Developer+%7C+Problem+Solver;Building+useful+tools%2C+one+commit+at+a+time)](https://github.com/awanishkrai)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=awanishkrai&style=flat-square&color=534AB7&label=Profile+Views)](https://github.com/awanishkrai)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/awanishkrai?style=flat-square&color=1D9E75&label=Followers)](https://github.com/awanishkrai?tab=followers)
+&nbsp;
+[![GitHub User's stars](https://img.shields.io/github/stars/awanishkrai?style=flat-square&color=BA7517&label=Total+Stars)](https://github.com/awanishkrai?tab=repositories)
+
+</div>
 
 ---
 
-## Who am I?
+## 👋 About Me
 
-- A **full-stack developer** who enjoys turning ideas into working products  
-- Focused on **clean, practical solutions** rather than just fancy tech  
-- Currently diving deeper into **DevOps, Docker, and Cloud** for better deployments  
-- Love improving **problem-solving skills** through contests and real projects  
+I'm a **full-stack developer** who enjoys turning ideas into working products — focused on **clean, practical solutions** over fancy tech. Currently diving deeper into **DevOps, Docker, and Cloud** for better deployments. I love sharpening my **problem-solving skills** through competitive programming and real-world projects.
 
----
-
-## Tech Toolbox
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,docker,linux,vscode&perline=5"
-    alt="Tech stack icons"
-  />
-</p>
+- 🔭 Currently working on **[Adhyay](https://github.com/awanishkrai/adhyay)** — a book community platform
+- 🌱 Learning **Docker, CI/CD pipelines, and Cloud deployments**
+- 💡 I believe in shipping useful tools, not just writing code
+- ⚡ Fun fact: I go by `master_magnus` on CodeChef
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Toolbox
 
-### Adhyay – Book Community Platform
+<div align="center">
 
-A platform for book lovers to discover books, create clubs, and discuss ideas together.  
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,docker,linux,vscode&perline=5)](https://github.com/awanishkrai)
 
-- Focus on **community, conversations, and curated reading**  
-- Great playground for building structured, user-centric features  
-- Repo: **[github.com/awanishkrai/adhyay](https://github.com/awanishkrai/adhyay)**  
+</div>
 
----
-
-### Sleep Assistant – Sleep Tracking with Google Fit
-
-A JavaScript-based sleep tracking app using the Google Fit API to analyze and visualize sleep data.  
-
-- Experiments with **API integration** and **data-driven UX**  
-- Good example of connecting frontend logic with external health data  
-- Repo: **[github.com/awanishkrai/sleep-assistant](https://github.com/awanishkrai/sleep-assistant)**  
-
-> More projects in the **[repositories tab](https://github.com/awanishkrai?tab=repositories)** – from experiments to more polished work.
+**Languages:** JavaScript, TypeScript, HTML, CSS  
+**Frontend:** React.js  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**DevOps & Tools:** Docker, Git, Linux, VS Code
 
 ---
 
-## GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=awanishkrai&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
+### 📚 [Adhyay — Book Community Platform](https://github.com/awanishkrai/adhyay)
+> A platform for book lovers to discover books, create clubs, and discuss ideas together.
 
----
-
-## Competitive Programming
-
-- Codeforces: [Awanish_Rai](https://codeforces.com/profile/Awanish_Rai)  
-- CodeChef: [master_magnus](https://www.codechef.com/users/master_magnus)  
-
-<p align="center">
-  <img
-    src="https://codeforces-readme-stats.vercel.app/api/card?username=Awanish_Rai&theme=graywhite"
-    alt="Codeforces Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://codechef-readme-stats.vercel.app/api/card?username=master_magnus&theme=light"
-    alt="CodeChef Stats"
-  />
-</p>
+- Community-first design — conversations and curated reading at the core
+- Great playground for building structured, user-centric features
+- `JavaScript` · `Node.js` · `MongoDB` · `React`
 
 ---
 
-## GitHub Overview
+### 😴 [Sleep Assistant — Sleep Tracking with Google Fit](https://github.com/awanishkrai/sleep-assistant)
+> A JavaScript-based sleep tracking app using the Google Fit API to analyze and visualize sleep data.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=awanishkrai&show_icons=true&theme=default&hide_border=false"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanishkrai&layout=compact&theme=default&hide_border=false"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=awanishkrai&theme=default&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
+- Experiments with **API integration** and **data-driven UX**
+- Connects frontend logic with external health data
+- `JavaScript` · `Google Fit API`
 
 ---
 
-## Let’s Connect
+### 🍕 [Food Delivery Website](https://github.com/awanishkrai/Food-Delivery-Website)
+> A clean, responsive food delivery frontend built from scratch.
+- `HTML` · `CSS` · `JavaScript`
 
-<p align="center">
-  <a href="mailto:awanishrai420@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-awanishrai420%40gmail.com-1f2933?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Badge"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/awanish-rai-9296ab221/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Awanish%20Kumar%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-</p>
+---
+
+### 🎓 [School Dropout Survey — Hackathon](https://github.com/awanishkrai/Hackathon)
+> A social-impact survey platform built to track and analyze school dropout patterns.
+- `HTML` · `CSS`
+
+> 📂 See all projects in the **[repositories tab](https://github.com/awanishkrai?tab=repositories)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=awanishkrai&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanishkrai&layout=compact&theme=default&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=awanishkrai&theme=default&hide_border=true)](https://github.com/awanishkrai)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=awanishkrai&theme=flat&no-frame=true&no-bg=true&margin-w=10)](https://github.com/awanishkrai)
+
+</div>
+
+---
+
+## ⚔️ Competitive Programming
+
+I enjoy solving algorithmic problems and participating in coding contests.
+
+| Platform | Handle | Profile |
+|----------|--------|---------|
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | `Awanish_Rai` | [View Profile](https://codeforces.com/profile/Awanish_Rai) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | `master_magnus` | [View Profile](https://www.codechef.com/users/master_magnus) |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-awanishrai420%40gmail.com-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awanishrai420@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awanish%20Kumar%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awanish-rai-9296ab221/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-awanishkrai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awanishkrai)
+
+</div>
+
+---
+
+<div align="center">
+  <i>building useful tools, one commit at a time ⚡</i>
+</div>
